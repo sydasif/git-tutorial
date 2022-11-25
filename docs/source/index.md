@@ -3,15 +3,16 @@
 % You can adapt this file completely to your liking, but it should at least
 % contain the root `toctree` directive.
 
-# Welcome to Git Tutorial's documentation!
+# Welcome to Git Tutorial's documentation
+
+```{warning}
+This is a test project.
+```
 
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+book/part_01
+book/part_02
 ```
-
-# Indices and tables
-
-- {ref}`genindex`
-- {ref}`modindex`
-- {ref}`search`
