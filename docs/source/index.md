@@ -11,8 +11,10 @@ This is a test project.
 
 ```{toctree}
 :caption: 'Contents:'
-:maxdepth: 2
+:maxdepth: 1
 
-book/part_01
-book/part_02
+book/index
+book/01_intro
+book/02_create-repo
+book/03_clone-repo
 ```
