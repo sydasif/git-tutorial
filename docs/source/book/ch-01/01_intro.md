@@ -1,4 +1,4 @@
-# Git and GitHub
+# 1. Git and GitHub
 
 Git is a distributed version control system (VCS) that maintains a history of changes to files for reference and rolls back a change. It is a software for tracking changes in any set of files, usually used for coordinating work among programmers who are collaborating on the same source code, and widely used, released under GNU GPL v2 license.
 

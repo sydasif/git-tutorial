@@ -1,4 +1,4 @@
-# Create your first repository
+# 2. Create your first repository
 
 ## git init
 

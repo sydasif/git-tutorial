@@ -1,4 +1,4 @@
-# Clone a repository
+# 3. Clone a repository
 
 The git clone command is used to copy an existing Git repository from a server to the local machine. If someone else wants to take your changes, add their changes on top of it and push those changes on the remote git repo.
 
