@@ -49,7 +49,7 @@ The below "git fetch" command retrieves the latest meta-data from the remote rep
 
 It doesn’t do any file transferring. It just checks if there are any changes available or not.
 
-```[Note]
+```{Note}
 In the current case it's optional to do git fetch because git clone will automatically update all metadata. But for later usage fetch will be very useful.
 ```
 
