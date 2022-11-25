@@ -1,9 +1,6 @@
-% Git Tutorial documentation master file, created by
-% sphinx-quickstart on Fri Nov 25 19:43:00 2022.
-% You can adapt this file completely to your liking, but it should at least
-% contain the root `toctree` directive.
+# What is version control?
 
-# Welcome to Git Tutorial's documentation
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code. As development environments have accelerated, version control systems help software teams work faster and smarter.
 
 ```{warning}
 This is a test project.
@@ -13,7 +10,6 @@ This is a test project.
 :caption: 'Contents:'
 :maxdepth: 1
 
-book/index
 book/01_intro
 book/02_create-repo
 book/03_clone-repo
